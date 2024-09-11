@@ -1,5 +1,6 @@
 ## Hi there 👋
-I am Huang Jingxiang, a master's student in School of Journalism and Communication, Nanjing University. I am very happy that you can come to my homepage:smile:
+![Visitor Count](https://profile-counter.glitch.me/Huang-Jingxiang/count.svg)
+I am Huang Jingxiang, a master's student in School of Journalism and Communication, Nanjing University. I am very happy that you can come to my homepage :smile:
 <!--
 **Huang-Jingxiang/Huang-Jingxiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
