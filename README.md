@@ -6,9 +6,8 @@
 - :heart: **Computational social science**, **Natural language processing** and **Data mining** are my research interests. Looking forward to communicating with you all. :smile:
 - :blue_heart: btw, I love [Rachel](https://weibo.com/u/2266537042). :rose::rose::rose:
 
-<div style="text-align: center;">
-<img src="https://github.com/user-attachments/assets/b5ddc87e-a39c-42d0-9bb6-bfd71d50e9cc" alt="Alt" width=auto height="500">
-</div>
+<img src="https://github.com/user-attachments/assets/b5ddc87e-a39c-42d0-9bb6-bfd71d50e9cc" alt="Alt" style="height: 400px; width: auto; margin: 0 auto;">
+
 <!--
 **Huang-Jingxiang/Huang-Jingxiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
