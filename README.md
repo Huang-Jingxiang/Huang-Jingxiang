@@ -5,6 +5,7 @@
 - :purple_heart: I am Huang Jingxiang, a master's student in School of Journalism and Communication, Nanjing University. I am very happy that you can come to my homepage. :smile:
 - :heart: **Computational social science**, **Natural language processing** and **Data mining** are my research interests. Looking forward to communicating with you all. :smile:
 - :blue_heart: btw, I love [Rachel](https://weibo.com/u/2266537042). :rose::rose::rose:
+- 你要亲眼看尽这世界 尘事不怜人卑怯 就这一命就再锋利些 只管迎刃一战那最痛快的约
 
 <img src="https://github.com/user-attachments/assets/b5ddc87e-a39c-42d0-9bb6-bfd71d50e9cc" alt="Alt" style="height: 400px; width: auto; margin: 0 auto;">
 
