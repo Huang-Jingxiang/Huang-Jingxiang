@@ -5,8 +5,10 @@
 - :purple_heart: I am Huang Jingxiang, a master's student in School of Journalism and Communication, Nanjing University. I am very happy that you can come to my homepage. :smile:
 - :heart: **Computational social science**, **Natural language processing** and **Data mining** are my research interests. Looking forward to communicating with you all. :smile:
 - :blue_heart: btw, I love [Rachel](https://weibo.com/u/2266537042). :rose::rose::rose:
-<img src="https://github.com/user-attachments/assets/b5ddc87e-a39c-42d0-9bb6-bfd71d50e9cc" alt="Alt" width=auto height="500">
 
+<div style="text-align: center;">
+<img src="https://github.com/user-attachments/assets/b5ddc87e-a39c-42d0-9bb6-bfd71d50e9cc" alt="Alt" width=auto height="500">
+</div>
 <!--
 **Huang-Jingxiang/Huang-Jingxiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
