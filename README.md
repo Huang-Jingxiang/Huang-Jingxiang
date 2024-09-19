@@ -1,13 +1,11 @@
 ## Hi there 👋
 ![Visitor Count](https://profile-counter.glitch.me/Huang-Jingxiang/count.svg)
 
+欢迎您来！
 
-- :purple_heart: I am Huang Jingxiang, a master's student in School of Journalism and Communication, Nanjing University. I am very happy that you can come to my homepage. :smile:
-- :heart: **Computational social science**, **Natural language processing** and **Data mining** are my research interests. Looking forward to communicating with you all. :smile:
-- :blue_heart: btw, I love [Rachel](https://weibo.com/u/2266537042). :rose::rose::rose:
-- 你要亲眼看尽这世界 尘事不怜人卑怯 就这一命就再锋利些 只管迎刃一战那最痛快的约
+更多信息在[个人主页](https://huang-jingxiang.github.io/)
 
-<img src="https://github.com/user-attachments/assets/b5ddc87e-a39c-42d0-9bb6-bfd71d50e9cc" alt="Alt" style="height: 400px; width: auto; margin: 0 auto;">
+**而你从不平庸 有少年独特英勇**
 
 <!--
 **Huang-Jingxiang/Huang-Jingxiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
