@@ -1,6 +1,10 @@
 ## Hi there 👋
 ![Visitor Count](https://profile-counter.glitch.me/Huang-Jingxiang/count.svg)
 
+~~以下gif是我的日常状态(bushi)~~
+
+![mmexport1727579014906](https://github.com/user-attachments/assets/47d24204-b441-41f8-86cc-a26e4b97430c)
+
 欢迎您来！
 
 更多信息在[个人主页](https://huang-jingxiang.github.io/)
