@@ -5,9 +5,9 @@
 
 ![mmexport1727579014906](https://github.com/user-attachments/assets/47d24204-b441-41f8-86cc-a26e4b97430c)
 
-欢迎您来！
+欢迎您来！ Welcome!
 
-更多信息在[个人主页](https://huang-jingxiang.github.io/)
+更多信息在[个人主页](https://huang-jingxiang.github.io/) ⬅️ More info is in my homepage 
 
 **而你从不平庸 有少年独特英勇**
 
