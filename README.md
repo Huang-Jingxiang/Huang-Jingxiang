@@ -1,4 +1,4 @@
-## Hi there 👋
+## 毕竟天总会变晴雨会停 ✨
 ![Visitor Count](https://profile-counter.glitch.me/Huang-Jingxiang/count.svg)
 
 ~~以下gif是我的日常状态——在难与不难之间仰卧起坐~~(**bushi**)
